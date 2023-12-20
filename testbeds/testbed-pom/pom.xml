@@ -74,7 +74,7 @@
   
     <properties>
         <ant.plugin.version>1.7</ant.plugin.version>
-        <ant.version>1.8.1</ant.version>
+        <ant.version>1.10.11</ant.version>
         <ant.trax.version>1.8.0</ant.trax.version>
         <fitnesse.version>20140901</fitnesse.version>
         <jacoco.version>0.8.10</jacoco.version>
